@@ -1,0 +1,4 @@
+﻿  dz3p1.c
+D:\Fakultet\I godina\II semestar\Algoritmi i strukture podataka 1\dz3p1\dz3p1\dz3p1\dz3p1.c(612,42): warning C4133: 'function': incompatible types - from 'int *' to 'char *'
+D:\Fakultet\I godina\II semestar\Algoritmi i strukture podataka 1\dz3p1\dz3p1\dz3p1\dz3p1.c(584,27): warning C4101: 'j': unreferenced local variable
+  dz3p1.vcxproj -> D:\Fakultet\I godina\II semestar\Algoritmi i strukture podataka 1\dz3p1\dz3p1\Debug\dz3p1.exe
